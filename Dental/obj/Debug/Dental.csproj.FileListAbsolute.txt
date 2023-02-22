@@ -1,0 +1,66 @@
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\ApplicationInsights.config
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\csc.exe
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\System.Collections.Immutable.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\vbc.exe
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\VBCSCompiler.exe
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\roslyn\VBCSCompiler.exe.config
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Dental.dll.config
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Dental.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Dental.pdb
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.Web.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.WindowsServer.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.ApplicationInsights.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.Web.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.AI.WindowsServer.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.ApplicationInsights.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\obj\Debug\Dental.csprojResolveAssemblyReference.cache
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\obj\Debug\Dental.dll
+c:\users\colli\documents\visual studio 2015\Projects\Dental\Dental\obj\Debug\Dental.pdb
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\ApplicationInsights.config
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\csc.exe
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\vbc.exe
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\VBCSCompiler.exe
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Dental.dll.config
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Dental.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Dental.pdb
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.Web.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.ApplicationInsights.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.Web.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.ApplicationInsights.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\obj\Debug\Dental.csprojResolveAssemblyReference.cache
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\obj\Debug\Dental.dll
+C:\Users\colli\Documents\Visual Studio 2015\Projects\Dental - Copy\Dental\obj\Debug\Dental.pdb
